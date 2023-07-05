@@ -1,7 +1,7 @@
-# Gamol
+# Gamol Studio
 
 
-### Hi, This Gamol Studio Official 👋
+### Hi, Welcome 👋
  
   * ✨ We work on AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ Documentaing our journey [here](https://gamolstudio.com.research/)
