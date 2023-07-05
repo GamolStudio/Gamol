@@ -4,7 +4,7 @@
 ### Hi, Welcome 👋
  
   * ✨ We work on AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
-  * ✍ Documentaing our journey [here](https://gamolstudio.com.research/)
+  * ✍ Documentaing our journey [here](https://gamolstudio.com/overview-2/)
   * 😎 Researching on hardware, software and AI innovations.
 
 We are best reached via email. Always open to interesting conversations and collaboration.
